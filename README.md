@@ -117,4 +117,4 @@ mindlogic은 해당 task에 대한 여러분의 기여를 환영하고 있습니
 ## Reference
 * [kcElectra](https://github.com/Beomi/KcELECTRA)
 * [Test용 데이터셋](./test_dataset/mindlogic_test_dataset.tsv)
-* [사람과 AI가 함께 살아가는 안전한 소셜AI 커뮤니티 5대 원칙](.principles_for_responsible_social_ai_community.md)
+* [사람과 AI가 함께 살아가는 안전한 소셜AI 커뮤니티 5대 원칙](./principles_for_responsible_social_ai_community.md)
