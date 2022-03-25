@@ -104,7 +104,7 @@ python codes/src/test_model.py \
 ## Benchmark
 | model | accuracy |
 | ------- | ------- |
-| kcElectra_based_amp | 92.0% |
+| kcElectra_base_lr_5e-05_fp16_wd_val_86.6_mindlogic_dataset | 92.0% |
 
 mindlogic은 해당 task에 대한 여러분의 기여를 환영하고 있습니다.<br/>
 동일 [테스트 데이터](./test_dataset/mindlogic_test_dataset.tsv)로 개선된 모델을 [담당자](#contact)에게 공유해 주시면 본 benchmark에 추가하도록 하겠습니다.
