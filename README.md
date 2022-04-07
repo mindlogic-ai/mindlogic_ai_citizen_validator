@@ -49,7 +49,7 @@ https://huggingface.co/mindlogic/mindlogic-electra-ko-ai-citizen-classifier-base
 
 
 ## Model Training
-* transformers의 ElectraForSequenceClassification을 사용해 finetunning을 수행하였습니다.
+* transformers의 ElectraForSequenceClassification을 사용해 finetuning을 수행하였습니다.
 * 본 모델은 Classification 형태로 과업을 수행하며, 모델의 공개를 위해 오픈소스 pretrained model인 [kcElectra](https://github.com/Beomi/KcELECTRA)를 사용하였습니다.
 
 ```Python
